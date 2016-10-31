@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Networks computer="Billys-iMac">
+  <network Enabled="No" NetworkType="LOR" ComPort="COM3" BaudRate="57600" MaxChannels="80" Description="LOR"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="101" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="102" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="103" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="104" MaxChannels="510" Description="AP-16-1"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="105" MaxChannels="510" Description="AP-16-1" Enabled="Yes"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="105" MaxChannels="510" Description="AP-16-1" Enabled="No"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="106" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="107" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="108" MaxChannels="510" Description="AP-16-1"/>
@@ -12,10 +13,10 @@
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="110" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="111" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="112" MaxChannels="510" Description="AP-16-1"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="113" MaxChannels="510" Description="AP-16-1" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="114" MaxChannels="510" Description="AP-16-1" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="115" MaxChannels="510" Description="AP-16-1" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="116" MaxChannels="510" Description="AP-16-1" Enabled="No"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="113" MaxChannels="510" Description="AP-16-1"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="114" MaxChannels="510" Description="AP-16-1"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="115" MaxChannels="510" Description="AP-16-1"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="116" MaxChannels="510" Description="AP-16-1"/>
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="201" MaxChannels="512" Description="AP-16-2"/>
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="202" MaxChannels="512" Description="AP-16-2"/>
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="203" MaxChannels="512" Description="AP-16-2"/>
@@ -28,10 +29,10 @@
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="210" MaxChannels="512" Description="AP-16-2"/>
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="211" MaxChannels="512" Description="AP-16-2"/>
   <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="212" MaxChannels="512" Description="AP-16-2"/>
-  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="213" MaxChannels="512" Description="AP-16-2" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="214" MaxChannels="512" Description="AP-16-2" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="215" MaxChannels="512" Description="AP-16-2" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="216" MaxChannels="512" Description="AP-16-2" Enabled="No"/>
+  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="213" MaxChannels="512" Description="AP-16-2"/>
+  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="214" MaxChannels="512" Description="AP-16-2"/>
+  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="215" MaxChannels="512" Description="AP-16-2"/>
+  <network NetworkType="E131" ComPort="192.168.1.51" BaudRate="216" MaxChannels="512" Description="AP-16-2"/>
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="301" MaxChannels="510" Description="AP-16-3"/>
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="302" MaxChannels="510" Description="AP-16-3"/>
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="303" MaxChannels="510" Description="AP-16-3"/>
@@ -40,14 +41,14 @@
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="306" MaxChannels="510" Description="AP-16-3"/>
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="307" MaxChannels="510" Description="AP-16-3"/>
   <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="308" MaxChannels="510" Description="AP-16-3"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="309" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="310" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="311" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="312" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="313" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="314" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="315" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="316" MaxChannels="510" Description="AP-16-3" Enabled="No"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="309" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="310" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="311" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="312" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="313" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="314" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="315" MaxChannels="510" Description="AP-16-3"/>
+  <network NetworkType="E131" ComPort="192.168.1.52" BaudRate="316" MaxChannels="510" Description="AP-16-3"/>
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="401" MaxChannels="512" Description="AP-16-4"/>
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="402" MaxChannels="512" Description="AP-16-4"/>
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="403" MaxChannels="512" Description="AP-16-4"/>
@@ -57,13 +58,13 @@
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="407" MaxChannels="512" Description="AP-16-4"/>
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="408" MaxChannels="512" Description="AP-16-4"/>
   <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="409" MaxChannels="512" Description="AP-16-4"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="410" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="411" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="412" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="413" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="414" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="415" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
-  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="416" MaxChannels="512" Description="AP-16-4" Enabled="No"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="410" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="411" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="412" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="413" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="414" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="415" MaxChannels="512" Description="AP-16-4"/>
+  <network NetworkType="E131" ComPort="192.168.1.53" BaudRate="416" MaxChannels="512" Description="AP-16-4"/>
   <network NetworkType="E131" ComPort="192.168.1.54" BaudRate="501" MaxChannels="512" Description="AP-4-5"/>
   <network NetworkType="E131" ComPort="192.168.1.54" BaudRate="502" MaxChannels="512" Description="AP-4-5"/>
   <network NetworkType="E131" ComPort="192.168.1.54" BaudRate="503" MaxChannels="512" Description="AP-4-5"/>
@@ -72,7 +73,7 @@
   <network NetworkType="E131" ComPort="192.168.1.55" BaudRate="602" MaxChannels="512" Description="AP-4-6"/>
   <network NetworkType="E131" ComPort="192.168.1.55" BaudRate="603" MaxChannels="512" Description="AP-4-6"/>
   <network NetworkType="E131" ComPort="192.168.1.55" BaudRate="604" MaxChannels="512" Description="AP-4-6"/>
-  <network NetworkType="E131" Enabled="Yes" ComPort="192.168.1.55" BaudRate="99" MaxChannels="512" Description="Tree RGB Star"/>
+  <network NetworkType="E131" ComPort="192.168.1.55" BaudRate="99" MaxChannels="512" Description="Tree RGB Star" Enabled="No"/>
   <testpreset name="Testing"/>
-  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="117" MaxChannels="32" Description="LOR Front/Roof"/>
+  <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="117" MaxChannels="32" Description="LOR Front/Roof" Enabled="No"/>
 </Networks>
