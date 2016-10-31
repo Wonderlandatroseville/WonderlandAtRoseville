@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>2016.50</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,E_VALUECURVE_Bars_BarCount=Active=FALSE|,E_VALUECURVE_Bars_Cycles=Active=FALSE|</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="260845192" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Front Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Front Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Top Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Top Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Border RS Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Border RS Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Back Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Back Cross Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-12" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-13" visible="1"/>
+    <Element collapsed="0" type="model" name="Poly Line-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-14" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="250" endTime="56700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Window LS Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window LS Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window LS Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Front Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Front Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Top Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border RS Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border RS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Cross Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-13">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Poly Line-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="0" endTime="30600" palette="0"/>
+      </EffectLayer>
+      <Strand index="1">
+        <Effect ref="1" name="On" selected="1" startTime="1300" endTime="24300" palette="0"/>
+      </Strand>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>

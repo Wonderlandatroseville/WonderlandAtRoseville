@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Single Line" LayoutGroup="Default" Dir="L" X1="0.840667" Y1="0.285714" X2="0.920000" Y2="0.454286" versionNumber="1" StartChannel="#101:1"/>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Single Line-1" LayoutGroup="Default" X1="0.998000" Y1="0.284286" X2="0.919333" Y2="0.455714" versionNumber="1" StartChannel="1"/>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Single Line-2" LayoutGroup="Default" X1="0.996667" Y1="0.281429" X2="0.997333" Y2="0.001429" versionNumber="1" StartChannel="&gt;Single Line-1:1"/>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" name="Single Line-3" LayoutGroup="Default" X1="0.842667" Y1="0.280000" X2="0.843333" Y2="0.001429" versionNumber="1" StartChannel="&gt;Single Line-2:1"/>
+  </models>
+  <effects version="0006"/>
+  <palettes/>
+  <views/>
+  <modelGroups/>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=2099196;dir=4;layer=1;row=0;pos=3;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=2099196;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099196;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=312;besth=350;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=540;floaty=302;floatw=312;floath=366|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=183;besth=150;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=481;besth=528;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099196;dir=1;layer=0;row=0;pos=3;prop=100000;bestw=900;besth=500;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=330;besth=193;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=301;besth=262;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=377;besth=265;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=140;besth=49;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=352|dock_size(1,0,0)=149|dock_size(5,0,0)=142|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <storedLayoutGroup value="All Models"/>
+    <backgroundImage value="/Users/Billy/Documents/WonderlandAtRoseville2016-2017/Outlinexlights.png"/>
+    <scaleImage value="0"/>
+    <previewWidth value="1500"/>
+    <previewHeight value="700"/>
+    <backgroundBrightness value="71"/>
+  </settings>
+</xrgb>

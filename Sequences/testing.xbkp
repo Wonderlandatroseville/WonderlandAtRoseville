@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>2016.50</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHECKBOX_OverlayBkg=1,B_CHOICE_BufferTransform=Flip Vertical,B_CUSTOM_SubBuffer=0.00x0.00x100.03x100.10,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Left,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,E_VALUECURVE_Bars_BarCount=Active=FALSE|,E_VALUECURVE_Bars_Cycles=Active=FALSE|</Effect>
+    <Effect></Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="260845192" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window LS Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Front Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window Front Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Window RS Top Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Top Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Border RS Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Back Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Back Cross Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Border Front Top Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Sleigh" visible="1"/>
+    <Element collapsed="1" type="model" name="Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Workshop" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Tree Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Drip Lights" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window LS Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window LS Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window LS Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Front Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window Front Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Window RS Top Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border RS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Cross Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ALL">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" startTime="3025" endTime="17350" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Front Tree">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="1300" endTime="2300" palette="1"/>
+        <Effect ref="1" name="On" id="1" startTime="2450" endTime="3450" palette="1"/>
+        <Effect ref="1" name="On" id="2" startTime="3900" endTime="4900" palette="1"/>
+        <Effect ref="1" name="On" id="3" startTime="5650" endTime="6650" palette="1"/>
+        <Effect ref="1" name="On" id="4" startTime="7825" endTime="8825" palette="1"/>
+        <Effect ref="1" name="On" id="5" startTime="10025" endTime="11025" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sleigh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Stars">
+      <EffectLayer/>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Workshop">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Tree">
+      <EffectLayer>
+        <Effect ref="1" name="On" startTime="600" endTime="1600" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Back Tree Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Drip Lights">
+      <EffectLayer>
+        <Effect ref="1" name="On" selected="1" startTime="825" endTime="1825" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>

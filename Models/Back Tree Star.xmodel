@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polylinemodel 
+name="Back Tree Star" parm1="1" parm2="97" parm3="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StartSide="B" Dir="L" StrandNames="" NodeNames="" IndivSegs="" NumPoints="17" Seg1="11" Seg2="11" Seg3="4" Seg4="5" Seg5="4" Seg6="3" Seg7="6" Seg8="4" Seg9="12" Seg10="13" Seg11="4" Seg12="6" Seg13="2" Seg14="3" Seg15="5" Seg16="4" Seg17="" PointData="0.415333,0.643522,0.461467,1.000000,0.523000,0.626103,0.830667,0.756491,0.600000,0.591255,1.000000,0.547811,0.615467,0.504357,0.907733,0.313114,0.523000,0.426011,0.476900,0.000000,0.384667,0.426011,0.077067,0.313114,0.261667,0.513018,0.000000,0.547811,0.292233,0.600060,0.107567,0.773919,0.415333,0.643522" cPointData="" SourceVersion="2016.50"  >
+</polylinemodel>
