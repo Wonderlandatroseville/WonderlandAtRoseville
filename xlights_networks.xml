@@ -75,4 +75,5 @@
   <network NetworkType="E131" Enabled="Yes" ComPort="192.168.1.55" BaudRate="99" MaxChannels="512" Description="Tree RGB Star"/>
   <testpreset name="Testing"/>
   <network NetworkType="E131" ComPort="192.168.1.50" BaudRate="117" MaxChannels="32" Description="LOR Front/Roof"/>
+  <network NetworkType="NULL" MaxChannels="50000" Description=""/>
 </Networks>

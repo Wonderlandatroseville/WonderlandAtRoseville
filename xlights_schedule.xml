@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xSchedule computer="DESKTOP-OGTK00O">
+<xSchedule computer="Billys-iMac">
   <schedule schedstart="2016-10-26" schedend="2016-10-26"/>
-  <playlists/>
+  <playlists>
+    <playlist name="Test" Audio="1" Video="1" xLights="1" MovieMode="0">
+      <listitem name="Christmas Canon Rock.fseq" delay="0"/>
+      <listitem name="Christmas Can Can.fseq" delay="0"/>
+    </playlist>
+  </playlists>
 </xSchedule>

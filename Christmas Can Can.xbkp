@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>2016.50</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist>Straight No Chaser</artist>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/Billy/Documents/WonderlandAtRoseville/Music 2016-2017/The Christmas Can-Can.mp3</mediaFile>
+    <sequenceDuration>176.509</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=2,E_SLIDER_Butterfly_Style=1,E_VALUECURVE_Butterfly_Chunks=Active=FALSE|,E_VALUECURVE_Butterfly_Skip=Active=FALSE|,E_VALUECURVE_Butterfly_Speed=Active=FALSE|,T_CHOICE_LayerMethod=1 is Mask,T_SLIDER_EffectLayerMix=84</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=50,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=10,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_Accel=Active=FALSE|,E_VALUECURVE_Fan_Blade_Angle=Active=FALSE|,E_VALUECURVE_Fan_Blade_Width=Active=FALSE|,E_VALUECURVE_Fan_CenterX=Active=FALSE|,E_VALUECURVE_Fan_CenterY=Active=FALSE|,E_VALUECURVE_Fan_Duration=Active=FALSE|,E_VALUECURVE_Fan_Element_Width=Active=FALSE|,E_VALUECURVE_Fan_End_Radius=Active=FALSE|,E_VALUECURVE_Fan_Num_Blades=Active=FALSE|,E_VALUECURVE_Fan_Num_Elements=Active=FALSE|,E_VALUECURVE_Fan_Revolutions=Active=FALSE|,E_VALUECURVE_Fan_Start_Angle=Active=FALSE|,E_VALUECURVE_Fan_Start_Radius=Active=FALSE|</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="82" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Intro" visible="1" views="LOR Items,Static Props,RGB Props" active="1"/>
+    <Element collapsed="0" type="model" name="Front Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Back White Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Drip Lights" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreaths" visible="1"/>
+    <Element collapsed="0" type="model" name="Sleigh" visible="1"/>
+    <Element collapsed="0" type="model" name="POE Doves" visible="1"/>
+    <Element collapsed="0" type="model" name="Town Town" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Back Tree Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Peace On Earth" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Workshop" visible="1"/>
+    <Element collapsed="0" type="model" name="ALL" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Star Left" visible="1"/>
+    <Element collapsed="0" type="model" name="RGB Star Right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Intro">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="2450"></Effect>
+        <Effect label="" startTime="2450" endTime="11100"></Effect>
+        <Effect label="" startTime="11100" endTime="11600"></Effect>
+        <Effect label="" startTime="11600" endTime="16600"></Effect>
+        <Effect label="" startTime="16600" endTime="19450"></Effect>
+        <Effect label="" startTime="19450" endTime="22650"></Effect>
+        <Effect label="" startTime="22650" endTime="24250"></Effect>
+        <Effect label="" startTime="24250" endTime="25800"></Effect>
+        <Effect label="" startTime="25800" endTime="27450"></Effect>
+        <Effect label="" startTime="27450" endTime="29050"></Effect>
+        <Effect label="" startTime="29050" endTime="30650"></Effect>
+        <Effect label="" startTime="30650" endTime="32300"></Effect>
+        <Effect label="" startTime="32300" endTime="33800"></Effect>
+        <Effect label="" startTime="33800" endTime="35400"></Effect>
+        <Effect label="" startTime="35400" endTime="37000"></Effect>
+        <Effect label="" startTime="37000" endTime="38550"></Effect>
+        <Effect label="" startTime="38550" endTime="41950"></Effect>
+        <Effect label="" startTime="41950" endTime="43550"></Effect>
+        <Effect label="" startTime="43550" endTime="45250"></Effect>
+        <Effect label="" startTime="45250" endTime="46550"></Effect>
+        <Effect label="" startTime="46550" endTime="48100"></Effect>
+        <Effect label="" startTime="48100" endTime="49650"></Effect>
+        <Effect label="" startTime="49650" endTime="51350"></Effect>
+        <Effect label="" startTime="51350" endTime="52950"></Effect>
+        <Effect label="" startTime="52950" endTime="54600"></Effect>
+        <Effect label="" startTime="54600" endTime="56250"></Effect>
+        <Effect label="" startTime="56250" endTime="57850"></Effect>
+        <Effect label="" startTime="57850" endTime="59400"></Effect>
+        <Effect label="" startTime="59400" endTime="62900"></Effect>
+        <Effect label="" startTime="62900" endTime="63350"></Effect>
+        <Effect label="" startTime="63350" endTime="68300"></Effect>
+        <Effect label="" startTime="68300" endTime="69800"></Effect>
+        <Effect label="" startTime="69800" endTime="75850"></Effect>
+        <Effect label="" startTime="75850" endTime="76200"></Effect>
+        <Effect label="" startTime="76200" endTime="81050"></Effect>
+        <Effect label="" startTime="81050" endTime="82700"></Effect>
+        <Effect label="" startTime="82700" endTime="87750"></Effect>
+        <Effect label="" startTime="87750" endTime="88300"></Effect>
+        <Effect label="" startTime="88300" endTime="93500"></Effect>
+        <Effect label="" startTime="93500" endTime="95450"></Effect>
+        <Effect label="" startTime="95450" endTime="97050"></Effect>
+        <Effect label="" startTime="97050" endTime="99850"></Effect>
+        <Effect label="" startTime="99850" endTime="103050"></Effect>
+        <Effect label="" startTime="103050" endTime="106700"></Effect>
+        <Effect label="" startTime="106700" endTime="109850"></Effect>
+        <Effect label="" startTime="109850" endTime="112950"></Effect>
+        <Effect label="" startTime="112950" endTime="118050"></Effect>
+        <Effect label="" startTime="118050" endTime="119350"></Effect>
+        <Effect label="" startTime="119350" endTime="125050"></Effect>
+        <Effect label="" startTime="125050" endTime="131050"></Effect>
+        <Effect label="" startTime="131050" endTime="132050"></Effect>
+        <Effect label="" startTime="132050" endTime="137300"></Effect>
+        <Effect label="" startTime="137300" endTime="140650"></Effect>
+        <Effect label="" startTime="140650" endTime="143750"></Effect>
+        <Effect label="" startTime="143750" endTime="149800"></Effect>
+        <Effect label="" startTime="149800" endTime="153000"></Effect>
+        <Effect label="" startTime="153000" endTime="155100"></Effect>
+        <Effect label="" startTime="155100" endTime="155850"></Effect>
+        <Effect label="" startTime="155850" endTime="156650"></Effect>
+        <Effect label="" startTime="156650" endTime="157450"></Effect>
+        <Effect label="" startTime="157450" endTime="160350"></Effect>
+        <Effect label="" startTime="160350" endTime="160550"></Effect>
+        <Effect label="" startTime="160550" endTime="160900"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Front Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back White Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Drip Lights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreaths">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sleigh">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="POE Doves">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Town Town">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="0" name="Butterfly" selected="1" startTime="300" endTime="10700" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Back Tree Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peace On Earth">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Workshop">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="ALL">
+      <EffectLayer>
+        <Effect ref="0" name="Butterfly" startTime="11600" endTime="14400" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="1" name="Fan" id="2" startTime="37000" endTime="38550" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="RGB Star Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="RGB Star Right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>3</lastView>
+</xsequence>

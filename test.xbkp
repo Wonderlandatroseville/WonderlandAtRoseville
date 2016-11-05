@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>2016.50</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,E_VALUECURVE_Bars_BarCount=Active=FALSE|,E_VALUECURVE_Bars_Cycles=Active=FALSE|</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1,E_VALUECURVE_Butterfly_Chunks=Active=FALSE|,E_VALUECURVE_Butterfly_Skip=Active=FALSE|,E_VALUECURVE_Butterfly_Speed=Active=FALSE|</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1297437786" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="0" views="" active="0"/>
+    <Element collapsed="0" type="model" name="Arches7-10" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches 11-14" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches 4-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches 1-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Single Line-1" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Back Cross Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Back Edge Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border WS Front" visible="0"/>
+    <Element collapsed="0" type="model" name="Outline" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Back Cross Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Back Edge Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Bottom Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Edge Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Middle Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Top Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border Front Top Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border LS Edge Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border LS Peak Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Border RS Edge Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Border RS Peak Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Peace On Earth" visible="1"/>
+    <Element collapsed="0" type="model" name="POE Doves" visible="1"/>
+    <Element collapsed="0" type="model" name="Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Workshop" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches7-10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 11-14">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 4-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches 1-3">
+      <EffectLayer>
+        <Effect ref="0" name="Bars" selected="1" startTime="100" endTime="12175" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Single Line-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Cross Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border WS Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Outline">
+      <EffectLayer>
+        <Effect ref="1" name="Butterfly" startTime="400" endTime="13125" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Border Back Cross Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Back Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Middle Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border Front Top Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Edge Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border LS Peak Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border RS Edge Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Border RS Peak Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Peace On Earth">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="POE Doves">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Workshop">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>
